@@ -49,9 +49,6 @@ public class DelimiterChecker {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		DelimiterChecker theChecker = new DelimiterChecker();
-		theChecker.check("{Hi said the kid} (the kid was 8){}");
-		theChecker.check("Hi said the kid (the kid was 8)}");
-		theChecker.check("{Hi said the kid (the kid was 8)})");
 //		/**
 //		 * @test
 //		 */
